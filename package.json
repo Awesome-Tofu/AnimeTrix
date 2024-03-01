@@ -12,11 +12,11 @@
     "anime downloading"
   ],
   "dependencies": {
-    "@emotion/react": "^11.11.1",
+    "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
-    "@formkit/auto-animate": "^1.0.0-pre-alpha.3",
-    "@mui/icons-material": "^5.13.7",
-    "@mui/material": "^5.13.7",
+    "@formkit/auto-animate": "^0.8.1",
+    "@mui/icons-material": "^5.15.11",
+    "@mui/material": "^5.15.11",
     "axios": "^1.4.0",
     "buffer": "^6.0.3",
     "js-cookie": "^3.0.5",
